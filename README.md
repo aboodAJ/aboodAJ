@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+# 👋 Hi, I'm Abdullah ALJABRI
+
+🎓 Master's student in Data Science & Artificial Intelligence  
+💡 Passionate about AI, Big Data, and intelligent systems  
+🌍 Based in Morocco  
+📫 Reach me at: [abdullah.aljabri.contact@gmail.com](mailto:abdullah.aljabri.contact@gmail.com)
+🌐 Connect With Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/abdullah-aljabri-57707320b/)
+
 <!--
 **aboodAJ/aboodAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
