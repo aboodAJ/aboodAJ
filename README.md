@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Abdullah ALJABRI
 
 🎓 Master's student in Data Science & Artificial Intelligence  
-💡 Passionate about AI, Big Data, and intelligent systems  
+💡 Passionate about AI, Big Data, IoT, and intelligent systems  
 🌍 Based in Morocco  
 📫 Reach me at: [abdullah.aljabri.contact@gmail.com](mailto:abdullah.aljabri.contact@gmail.com)  
 🌐 Connect With Me: [LinkedIn](https://www.linkedin.com/in/abdullah-aljabri-57707320b/)
